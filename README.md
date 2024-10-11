@@ -26,9 +26,12 @@ This project implements a dynamic pricing strategy, specifically for a ride-shar
 ## Dataset
 
 The project utilizes a rides list obtained from Uber (list.csv) that includes data such as:
-- **Ride Duration**: The expected duration of each ride.
-- **Pickup Location**: Geographic coordinates of ride pickups.
-- **Demand Indicators**: Historical demand patterns for different times and locations.
+-**Historical Sales Data**
+-**Customer Purchase Patterns**
+-**Market Demand Forecasts**
+-**Cost Data**
+-**Customer Segmentation Data**
+-**Real-Time Market Data**
 
 ## Implementation Steps
 
