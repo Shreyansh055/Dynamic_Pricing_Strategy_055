@@ -26,11 +26,17 @@ This project implements a dynamic pricing strategy, specifically for a ride-shar
 ## Dataset
 
 The project utilizes a rides list obtained from Uber (list.csv) that includes data such as:
+<br>
 -**Historical Sales Data**
+<br>
 -**Customer Purchase Patterns**
+<br>
 -**Market Demand Forecasts**
+<br>
 -**Cost Data**
+<br>
 -**Customer Segmentation Data**
+<br>
 -**Real-Time Market Data**
 
 ## Implementation Steps
