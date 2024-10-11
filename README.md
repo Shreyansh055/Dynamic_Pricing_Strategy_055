@@ -63,7 +63,8 @@ Run the Project:
 Execute the DynamicPricingStrategy.py script to start analyzing the data and adjusting prices dynamically.
 
 Conclusion
-The Dynamic Pricing Strategy project demonstrates how businesses can leverage data science to optimize pricing in real-time, ultimately enhancing revenue and customer satisfaction. By implementing this strategy, businesses can effectively respond to market fluctuations and improve their competitive edge.
+The Dynamic Pricing Strategy project demonstrates how businesses can leverage data science to optimize pricing in real-time, ultimately enhancing revenue and customer satisfaction.
+By implementing this strategy, businesses can effectively respond to market fluctuations and improve their competitive edge.
 
 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
